@@ -6,9 +6,10 @@ import App from "./App.jsx";
 import Animals from "./Animals.jsx";
 import AnimalsNotDestructured from "./AnimalsNotDestructured.jsx";
 import Button from "./Button.jsx";
+import Person from "./Person.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <Button />
+    <Person />
   </StrictMode>
 );

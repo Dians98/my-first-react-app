@@ -14,7 +14,7 @@ export default function Button()
     return (
         <>
         <Button_test bg_color="black" color="white" btn_text="Black&White"/>
-        <Button_test bg_color="red" color="yello" btn_text="Red&Yellow"/>
+        <Button_test bg_color="red" color="yellow" btn_text="Red&Yellow"/>
         <Button_test />
         </>
     );
