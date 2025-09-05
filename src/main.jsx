@@ -5,9 +5,10 @@ import Greeting from "./Greeting.jsx";
 import App from "./App.jsx";
 import Animals from "./Animals.jsx";
 import AnimalsNotDestructured from "./AnimalsNotDestructured.jsx";
+import Button from "./Button.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <Animals />
+    <Button />
   </StrictMode>
 );
